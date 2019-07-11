@@ -3,7 +3,7 @@ kind: CustomResourceDefinition
 metadata:
   name: ephemeralvolumeclaims.primed.io
 spec:
-  scope: Namespacedn
+  scope: Namespaced
   group: primed.io
   versions:
     - name: v1
